@@ -1,2 +1,1 @@
-# first-flask-app
-Just a small app for learning basics of flask
+Todo list based up on tutorial, just to grasp the basics of flask.
